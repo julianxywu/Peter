@@ -1,4 +1,5 @@
 #!/bin/bash
+# HELLO, JULIAN
 
 echo $# arguments to $0
 
