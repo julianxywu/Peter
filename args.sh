@@ -6,6 +6,7 @@
 # WILL THIS MERGE?
 
 
+#all edits should be pushed to yunive's branch
 echo $# arguments to $0
 
 # loop through all the arguments, in four different ways
