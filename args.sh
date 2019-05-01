@@ -1,5 +1,6 @@
 #!/bin/bash
 # HELLO, JULIAN
+# YUNIVE HAS BEEN WORKING ON THIS...
 
 echo $# arguments to $0
 
